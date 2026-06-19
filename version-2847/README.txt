@@ -1,0 +1,1 @@
+Open index.html to browse the static movie site.
